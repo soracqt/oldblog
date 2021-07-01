@@ -4,7 +4,7 @@ date = "2021-07-01"
 author = "u0a266"
 +++
 
-## Links
+## Social Links
 
 - [Email](mailto:ph6ywks7@anonaddy.me)
 - [Twitter](https://twitter.com/adijfdkfjklsjf)
