@@ -15,3 +15,6 @@ author = "u0a266"
 - Session:05ab1d3488559114699672b896db7eb2bd5a74acdc114e41256fe49cec171d694b
 - Discord:&> /dev/null#7537
 
+# rss
+
+https://u0a266.github.io/index.xml
