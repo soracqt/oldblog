@@ -29,7 +29,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Hello World."
-      logoHomeLink = "/"
+      logoHomeLink = "/oldblog"
     # or
     #
     # path = "/img/your-example-logo.svg"
