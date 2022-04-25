@@ -6,7 +6,7 @@ author = "soracqt"
 
 # rss
 
-https://soracqt.github.io/index.xml
+https://soracqt.github.io/oldblog/index.xml
 
 # issue report
 
